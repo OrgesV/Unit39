@@ -1,0 +1,19 @@
+.title{
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    right:5%;
+    color:lightgray
+}
+.pokedex{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container{
+    margin:20px 150px 20px 240px;
+    width: 70%;
+    
+    
+}
